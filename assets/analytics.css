@@ -1,0 +1,20 @@
+.analytycs-grouping label {
+    display: block;
+}
+#aggregation-select, #condition-select {
+    width: 100%;
+}
+
+.analytycs-condition a.dalete, .analytycs-aggregation a.dalete {
+    display: none;
+}
+.analytics .select2-container .select2-selection--single {
+    height: 33px !important;
+}
+.analytics .select2-container {
+    width: 100% !important;
+}
+
+.analytics .tab-content {
+    padding-top: 10px;
+}

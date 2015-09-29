@@ -1,0 +1,32 @@
+{
+  "name": "anmoroz/yii2-analytics",
+  "description": "Flexible user registration and authentication module for Yii2",
+  "keywords": ["yii2", "data analytics", "anmoroz"],
+  "type": "yii2-extension",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Andrey Morozov",
+      "email": "pavlovsk36@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.4.0",
+    "yiisoft/yii2": "~2.0",
+    "yiisoft/yii2-bootstrap": "~2.0",
+    "ruflin/elastica": "~2.2.1",
+    "bower-asset/select2": "~4.0"
+  },
+  "require-dev": {
+    "codeception/codeception": "^2.0",
+    "codeception/specify": "*",
+    "codeception/verify": "*",
+    "codeception/aspect-mock": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "anmoroz\\analytics\\": ""
+    }
+  }
+}
