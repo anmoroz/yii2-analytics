@@ -1,8 +1,8 @@
 {
   "name": "anmoroz/yii2-analytics",
-  "description": "Flexible user registration and authentication module for Yii2",
+  "description": "Yii2 Module for data analysts",
   "keywords": ["yii2", "data analytics", "anmoroz"],
-  "type": "yii2-extension",
+  "type": "yii2-module",
   "license": "MIT",
   "authors": [
     {
