@@ -3,7 +3,7 @@ Yii2 Module for data analysts
 
 Construction of complex sections of data in tabular form.
 
-[Здесь документация на сусском языке](https://github.com/anmoroz/yii2-analytics/tree/master/docs)
+[Здесь документация на Русском языке](https://github.com/anmoroz/yii2-analytics/tree/master/docs)
 
 Requirements
 ------------
