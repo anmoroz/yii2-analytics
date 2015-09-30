@@ -3,7 +3,7 @@ Yii2 Module for data analysts
 
 Construction of complex sections of data in tabular form.
 
-[Здесь документация на сусском языке](https://raw.github.com/anmoroz/yii2-analytics/master/docs/README.md)
+[Здесь документация на сусском языке](https://github.com/anmoroz/yii2-analytics/tree/master/docs)
 
 Requirements
 ------------
@@ -64,4 +64,4 @@ Indexing data
 
 Execute the `php yii analytics/indexation` command
 
-![yii2-analytics](https://cloud.githubusercontent.com/assets/6552104/10163376/32bfe786-66bb-11e5-8fe0-547e2a10dbdc.jpg)
+![yii2-analytics schema](https://raw.github.com/anmoroz/yii2-analytics/master/docs/screenshots/yii2-analytics-schema.jpg)
