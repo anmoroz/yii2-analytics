@@ -27,7 +27,7 @@ php composer.phar require --prefer-dist anmoroz/yii2-analytics
 ```
 или добавив
 ```json
-"anmoroz/yii2-analytics": "~1.0.0"
+"anmoroz/yii2-analytics": "~0.0.1"
 ```
 в раздел require в вашем composer.json.
 

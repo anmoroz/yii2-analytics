@@ -94,7 +94,7 @@ class  Module extends BaseModule implements BootstrapInterface
     private function setDbAdapter()
     {
         if (
-            !isset(Yii::$app->{$this->dbAdapterName})
+            Yii::$app->has($this->dbAdapterName) === false
             || ! Yii::$app->{$this->dbAdapterName} instanceof \yii\db\Connection
         ) {
             throw new ErrorException('DB adapter name is invalid. Please, set correct {dbAdapterName} variable');
